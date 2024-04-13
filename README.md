@@ -1,15 +1,16 @@
 # flutter_xylophone_app
 
-music app using pakages
+Xylophone App using audioPlayers package.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Package: audioplayers 6.0.0
 
-A few resources to get you started if this is your first Flutter project:
+- [Package audoplayers](https://pub.dev/packages/audioplayers)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [For more sounds](https://freesound.org/)
+
+![Screen Short](doc_image/short.png)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,

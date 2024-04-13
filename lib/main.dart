@@ -26,9 +26,9 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-        backgroundColor: Colors.black,
+        backgroundColor: Colors.white10,
         appBar: AppBar(
-          leading: const Icon(Icons.play_arrow_outlined),
+          leading: const Icon(Icons.library_music),
           title: const Text('Xylophone'),
           backgroundColor: Colors.grey,
         ),
